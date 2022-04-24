@@ -1,5 +1,3 @@
-# AnghelDragos.github.io
-
 # Portofolio Anghel Dragos
 Java developer
 

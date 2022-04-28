@@ -1,6 +1,9 @@
 # Portofolio Anghel Dragos
 Java developer
 
-# [Project 1 example with link](https:test_test_test)
-* Details about project 1
-* Other details about project 1
+# [Bubble sort randomly generated elements of an array](https://github.com/AnghelDragos/BubbleSort/blob/master/src/Main.java)
+* Imported java.util.Random
+* Added random elements into the array
+* Sorted the array in ascending order
+* Printed out the results
+

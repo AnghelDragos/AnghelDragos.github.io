@@ -12,3 +12,6 @@ Java developer
 * Audi class extends Car class
 * Mercedes class extends Car class
 * Only the Mercedes class has the accelerate function
+
+
+# [Polymorphism example](https://github.com/AnghelDragos/Polymorphism_Example)

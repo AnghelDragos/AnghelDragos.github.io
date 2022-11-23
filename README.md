@@ -1,6 +1,7 @@
 # Portofolio Anghel Dragos
 
 # [Final exam Project](https://github.com/AnghelDragos/Proiect_Final_IT_School)
+Create an application that manages flight tickets for users.
 
 # [IT School Homework](https://github.com/AnghelDragos/TemeITSchool)
 
